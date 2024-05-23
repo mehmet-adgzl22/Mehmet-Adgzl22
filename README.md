@@ -10,7 +10,7 @@
 
 
 ## 🛠 Diller & Araçlar
-[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,ts,vscode)](https://skillicons.dev)
 
 
 
