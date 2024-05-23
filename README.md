@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 Merhaba ben Mehmet Adıgüzel,
 
 
