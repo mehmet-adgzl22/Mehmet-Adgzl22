@@ -9,7 +9,7 @@
 
 
 
-## 🛠 Diller & Araçlar
+## 🛠 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,ts,vscode)](https://skillicons.dev)
 
 
