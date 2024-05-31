@@ -12,6 +12,8 @@
 ## 🛠 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,ts,vscode)](https://skillicons.dev)
 
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mehmet-adgzl22&label=Profile%20Views&color=1&icon=1&pretty=false" />
 </a>
