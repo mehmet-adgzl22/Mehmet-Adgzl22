@@ -8,6 +8,9 @@
 -  Gemoloji ile ilgileniyorum. ...
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmet.adiguzelll/)
+
 
 ## 🛠 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,ts,vscode)](https://skillicons.dev)
@@ -16,12 +19,10 @@
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mehmet-adgzl22&label=Profile%20Views&color=1&icon=1&pretty=false" />
-</a>
+</a> 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmet.adiguzelll/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+
+
 
 
 
