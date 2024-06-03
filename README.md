@@ -8,8 +8,15 @@
   
 ![image-gif](https://github.com/mehmet-adgzl22/Mehmet-Adgzl22/assets/169144147/d608be1f-4366-46cd-aeb0-984e21e3d7ce)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmet.adiguzelll/)
+<h3 align="left"></h3>
+
+<h3 align="left"></h3>
+<p align="left">
+<a href="https://twitter.com/mhmt_adgzl22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmt_adgzl22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmet-ad%c4%b1g%c3%bczel22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-ad%c4%b1g%c3%bczel22/" height="30" width="40" /></a>
+<a href="https://instagram.com/mehmet.adiguzelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet.adiguzelll" height="30" width="40" /></a>
+</p>
+
 
 
 ## 🛠 Languages & Tools
