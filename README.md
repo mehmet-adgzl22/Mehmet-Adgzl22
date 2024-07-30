@@ -1,10 +1,10 @@
 # Merhaba ben Mehmet Adıgüzel,
 ### **Şuan @Udemig Akademi'den React Front-end Eğitimi alıyorum.**
-#### **💬Ankara Üniversitesi Mezunuyum...**
-#### **⚡Zirai İnsansız Hava Aracı ve Drone ile İlaçlama konularında kendimi geliştiriyorum...**
-#### **🌱İnsansız tarım ve Topraksız tarım ile ilgili çalışmalar yapıyorum ...**
-#### **👋Akıllı Parklar adlı proje üzerinde çalışmalarım var ...**
-#### **👋Teknolojiyi ve teknolojik gelişmeleri takip etmeyi seviyorum ...**
+#### **💬 Ankara Üniversitesi Mezunuyum...**
+#### **⚡ Zirai İnsansız Hava Aracı ve Drone ile İlaçlama konularında kendimi geliştiriyorum...**
+#### **🌱 İnsansız tarım ve Topraksız tarım ile ilgili çalışmalar yapıyorum ...**
+#### **👋 Akıllı Parklar adlı proje üzerinde çalışmalarım var ...**
+#### **👋 Teknolojiyi ve teknolojik gelişmeleri takip etmeyi seviyorum ...**
   
 ![image-gif](https://github.com/mehmet-adgzl22/Mehmet-Adgzl22/assets/169144147/d608be1f-4366-46cd-aeb0-984e21e3d7ce)
 
