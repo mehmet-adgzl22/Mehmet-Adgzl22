@@ -1,5 +1,5 @@
 # Merhaba ben Mehmet Adıgüzel,
-### **Şuan @Udemig Akademi'den React Front-end Eğitimi alıyorum.**
+### **Udemig Akademi'den React Front-end Eğitimi aldım.**
 #### **💬 Ankara Üniversitesi Mezunuyum...**
 #### **⚡ Zirai İnsansız Hava Aracı ve Drone ile İlaçlama konularında kendimi geliştiriyorum...**
 #### **🌱 İnsansız tarım ve Topraksız tarım ile ilgili çalışmalar yapıyorum ...**
